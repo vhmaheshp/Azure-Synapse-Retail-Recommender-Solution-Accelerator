@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "private": true,
   "dependencies": {
-    "@azure/event-hubs": "^5.3.1",
+    "@azure/event-hubs": "^5.11.1",
     "@fluentui/react": "^7.157.2",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
